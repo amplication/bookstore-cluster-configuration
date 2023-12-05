@@ -3,6 +3,7 @@
 
 postgresql:
   auth:
+    database: bookstore-application
     enablePostgresUser: true
     postgresPassword: postgres
 
